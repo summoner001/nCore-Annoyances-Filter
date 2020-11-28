@@ -1,0 +1,10 @@
+#%#AG_onLoad(function() { if(window.location.href.indexOf("https://ncore.cc/premium.php") != -1){ window.location.href = "https://ncore.cc/index.php"; } });
+#%#AG_onLoad(function() { if(window.location.href.indexOf("https://ncore.nu/premium.php") != -1){ window.location.href = "https://ncore.nu/index.php"; } });
+###x-pop
+##.hr_stuff
+##.infocsik
+###main_tartalom > center:nth-child(4) > div
+###fancybox-overlay
+##.shopwindow_item
+###main_tartalom > center:nth-child(8) > div
+##.premium
